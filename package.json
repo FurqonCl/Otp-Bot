@@ -1,0 +1,22 @@
+{
+  "name": "otp-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.6.11",
+    "awesome-phonenumber": "^7.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pino": "^9.6.0",
+    "readline": "^1.3.0"
+  }
+}
